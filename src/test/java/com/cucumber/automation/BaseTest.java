@@ -16,6 +16,7 @@ public class BaseTest {
 		driver.manage().window().maximize();
 		
 		driver.get("https://facebook.com");
+		//testing
 	}
 	
 	public void close(){
